@@ -31,4 +31,4 @@ def word_counter():
         return http_bad_request(f'missing key {str(exception)} in request JSON body', None)
 
 
-app.run()
+app.run(app='0.0.0.0')
