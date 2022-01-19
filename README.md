@@ -1,4 +1,4 @@
-# Voxy Word Counter Test
+# Word Counter
 
 This is a simple web application that counts how many characters, words, sentences and paragraphs a sent text has.
 
